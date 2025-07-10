@@ -16,6 +16,10 @@ import linkedin from "./socials/linkedin.png";
 import instagram from "./socials/instagram.png";
 
 // Tech
+import next from "./tech/next.webp";
+import chakra from "./tech/chakra.webp";
+import emailjs from "./tech/email.jpg";
+import express from "./tech/ExpressJS.png";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -49,6 +53,9 @@ import restapi from "./tech/restapi.png";
 import microservices from "./tech/microservices.png";
 import prototyping from "./tech/prototyping.png";
 import cms from "./tech/cms.png";
+import farmer from "./tech/farmer.png";
+import firebase from "./tech/firebase.png";
+import versal from "./tech/versal.png";
 
 // Company
 import freelance from "./company/freelance.png";
@@ -134,4 +141,10 @@ export {
   geeselovemerch,
   Payal,
   Tejas,
+  farmer,
+  firebase,
+  versal,
+  chakra,
+  express,
+  emailjs,
 };

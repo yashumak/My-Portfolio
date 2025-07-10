@@ -56,6 +56,12 @@ import {
     whisperbackend,
     squad,
     geeselovemerch,
+    chakra,
+    versal,
+    express,
+    firebase,
+    farmer,
+    emailjs,
   } from "../assets";
   
   export const navLinks = [
@@ -129,39 +135,47 @@ import {
       name: "Java",
       icon: java,
     },
-    
+
     {
       name: "Node.js",
       icon: nodejs,
     },
-    {
-      name: "C",
-      icon: clang
-    },
-    {
-      name: "C#",
-      icon: csharp
-    },
-    {
-      name: "MySQL",
-      icon: mysql
-    },
+    // {
+    //   name: "C",
+    //   icon: clang
+    // },
+    // {
+    //   name: "C#",
+    //   icon: csharp
+    // },
+    // {
+    //   name: "MySQL",
+    //   icon: mysql
+    // },
     {
       name: "MongoDB",
       icon: mongodb
     },
+    // {
+    //   name: "Amazon Web Services",
+    //   icon: aws
+    // },
+    // {
+    //   name: "Azure",
+    //   icon: azure
+    // },
+    // {
+    //   name: "Heroku",
+    //   icon: heroku
+    // }
     {
-      name: "Amazon Web Services",
-      icon: aws
+      name: "ExpressJS",
+      icon: express
     },
     {
-      name: "Azure",
-      icon: azure
+      name: "Firebase",
+      icon: firebase
     },
-    {
-      name: "Heroku",
-      icon: heroku
-    }
   ]
 
   const frontendTech = [
@@ -181,10 +195,10 @@ import {
       name: "React.js",
       icon: reactjs,
     },
-    {
-      name: "Angular",
-      icon: angular
-    },
+    // {
+    //   name: "Angular",
+    //   icon: angular
+    // },
     {
       name: "Tailwind CSS",
       icon: tailwind
@@ -201,6 +215,14 @@ import {
       name: "Adobe XD",
       icon: adobexd
     },
+    {
+      name: "Chakra UI",
+      icon: chakra
+    },
+    {
+      name: "Versal",
+      icon: versal
+    },
   ]
 
   const otherTech = [
@@ -212,38 +234,38 @@ import {
     name: "GitHub",
     icon: github
   },
-  {
-    name: "Jira",
-    icon: jira
-  },
+  // {
+  //   name: "Jira",
+  //   icon: jira
+  // },
   {
     name: "Postman",
     icon: postman
   },
-  {
-    name: "Docker",
-    icon: docker
-  },
-  {
-    name: "Linux",
-    icon: linux
-  },
+  // {
+  //   name: "Docker",
+  //   icon: docker
+  // },
+  // {
+  //   name: "Linux",
+  //   icon: linux
+  // },
   {
     name: "Windows",
     icon: windows
   },
-  {
-    name: "DevOps",
-    icon: devops
-  },
-  {
-    name: "Agile",
-    icon: agile
-  },
-  {
-    name: "Scrum",
-    icon: scrum
-  },
+  // {
+  //   name: "DevOps",
+  //   icon: devops
+  // },
+  // {
+  //   name: "Agile",
+  //   icon: agile
+  // },
+  // {
+  //   name: "Scrum",
+  //   icon: scrum
+  // },
   {
     name: "Designing Restful APIs",
     icon: restapi
@@ -260,6 +282,14 @@ import {
   //   name: "CMS (WordPress, Wix)",
   //   icon: cms
   // }
+  {
+    name: "EmailJS",
+    icon: emailjs
+  },
+  {
+    name: "Farmer Motion",
+    icon: farmer
+  },
   ]
   
   const experiences = [
