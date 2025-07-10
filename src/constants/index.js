@@ -96,6 +96,7 @@ import {
     {
       name: "instagram",
       url: "https://www.instagram.com/yash__patil_08/",
+      icon: instagram,
     },
   ];
   
