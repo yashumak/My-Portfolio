@@ -8,6 +8,7 @@ import uiux from "./roles/uiux.png";
 import cloud from "./roles/cloud.png";
 import mobile from "./roles/mobile.png";
 import web from "./roles/web.png";
+import DigitalCreator from "./roles/Digital-Creator.jpg";
 
 // Socials
 import github from "./socials/github.png";
@@ -64,7 +65,7 @@ import sheridancollege from "./company/sheridancollege.png";
 import qmark from "./company/qmark.png";
 import northernwhisper from "./company/northernwhisper.png";
 import UoH from "./company/UoH.png";
-import headstarter from "./company/headstarter.png";
+// import headstarter from "./company/headstarter.png";
 
 // Projects
 import tastypython from "./projects/tastypython.png";
@@ -85,6 +86,7 @@ export {
   cloud,
   mobile,
   web,
+  DigitalCreator,
   github,
   menu,
   close,
@@ -137,7 +139,6 @@ export {
   cms,
   northernwhisper,
   UoH,
-  headstarter,
   geeselovemerch,
   Payal,
   Tejas,

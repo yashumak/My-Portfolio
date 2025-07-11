@@ -3,6 +3,7 @@ import {
     // uiux,
     cloud,
     web,
+    DigitalCreator,
     javascript,
     html,
     css,
@@ -49,7 +50,6 @@ import {
     cms,
     Payal,
     Tejas,
-    headstarter,
     northernwhisper,
     UoH,
     drivesync,
@@ -61,7 +61,7 @@ import {
     express,
     firebase,
     farmer,
-    emailjs,
+     emailjs,
   } from "../assets";
   
   export const navLinks = [
@@ -112,15 +112,15 @@ import {
       icon: cloud,
     },
     {
-      title: "Prev SWE Fellow",
-      icon: headstarter,
+      title: "Digital Creator",
+      icon: DigitalCreator,
     },
     {
-      title: "3x Hackathon Winner",
+      title: "Hackathon Participant",
       icon: web,
     },
     {
-      title: "Freelance Developer",
+      title: "Effective Communicator",
       icon: mobile,
     },
     
@@ -296,7 +296,7 @@ import {
     {
       title: "Software Engineering Fellow",
       company_name: "Headstarter AI",
-      icon: headstarter,
+      icon: postman,
       iconBg: "#121211", 
       date: "July - August 2024",
       points: [
