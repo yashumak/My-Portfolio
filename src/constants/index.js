@@ -112,6 +112,10 @@ import {
       icon: cloud,
     },
     {
+      title: "Effective Communicator",
+      icon: mobile,
+    },
+    {
       title: "Digital Creator",
       icon: DigitalCreator,
     },
@@ -119,10 +123,7 @@ import {
       title: "Hackathon Participant",
       icon: web,
     },
-    {
-      title: "Effective Communicator",
-      icon: mobile,
-    },
+    
     
   ];
 
