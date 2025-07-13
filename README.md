@@ -10,6 +10,5 @@ Welcome to my portfolio website, [yash.me](https://nayanm.me)! This is a showcas
 
 - **Tailwind CSS**: Tailwind CSS is employed for styling, making it easier to create a responsive and sleek design. The utility-first approach of Tailwind CSS enhances the development process.
 
-## Contributing
-
+## Contributin
 If you find any issues, have suggestions, or want to contribute to the project, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
