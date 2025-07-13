@@ -4,7 +4,7 @@ Welcome to my portfolio website, [yash.me](https://nayanm.me)! This is a showcas
 
 ## Technologies Used
 
-- **React JS**: The website is built using React JS, a popular JavaScript library for building user interfaces. This choice provides a dynamic and efficient experience for visitors.
+- **React JS**: The website is built using React J a popular JavaScript library for building user interfaces. This choice provides a dynamic and efficient experience for visitors.
 
 - **Three JS**: Three JS is utilized to incorporate 3D elements and animations, adding a visually appealing dimension to the website.
 
