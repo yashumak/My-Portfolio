@@ -61,7 +61,9 @@ import versal from "./tech/versal.png";
 // Company
 import freelance from "./company/freelance.png";
 import postman from "./company/postman.png";
+import cognifyz from "./company/cognifyz.png";
 import sheridancollege from "./company/sheridancollege.png";
+import bapu from "./company/bapu.webp";
 import qmark from "./company/qmark.png";
 import northernwhisper from "./company/northernwhisper.png";
 import UoH from "./company/UoH.png";
@@ -75,6 +77,9 @@ import squad from "./projects/squad.png";
 import whisperbackend from "./projects/whisperbackend.png";
 import drivesync from "./projects/drivesync.png";
 import geeselovemerch from "./projects/geeselovemerch.png";
+import color from "./projects/color.png";
+import task from "./projects/task.png";
+import skill from "./projects/skill.png";
 
 // Profile Images
 import Payal from "./profile/Payal_Lenka.jpg";
@@ -106,7 +111,9 @@ export {
   python,
   freelance,
   postman,
+  cognifyz,
   sheridancollege,
+  bapu,
   qmark,
   tastypython,
   phishbuster,
@@ -140,6 +147,9 @@ export {
   northernwhisper,
   UoH,
   geeselovemerch,
+  color,
+  task,
+  skill,
   Payal,
   Tejas,
   farmer,

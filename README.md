@@ -1,15 +1,67 @@
-# Yash's Portfolio Website
+# Yash Umak | Portfolio
 
-Welcome to my portfolio website, [yash.me](https://nayanm.me)! This is a showcase of my skills, projects, and experiences. Feel free to explore and get to know more about me.
+A modern, responsive portfolio website to showcase projects, experience, and skills. Built with React, Vite, and Tailwind CSS.
 
-## Technologies Used
+## 🚀 Features
+- Interactive and visually appealing UI
+- Project and experience showcase
+- Responsive design for all devices
+- Social media integration
+- Technology stack highlights
+- Testimonials section
 
-- **React JS**: The website is built using React JS, a popular JavaScript library for building user interfaces. This choice provides a dynamic and efficient experience for visitors.
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, Tailwind CSS
+- **Icons/Assets:** Custom SVGs, images in `/public` and `/src/assets`
+- **State Management:** React hooks
 
-- **Three JS**: Three JS is utilized to incorporate 3D elements and animations, adding a visually appealing dimension to the website.
+## 📁 Project Structure
+```
+├── public/           # Static assets (images, favicon, etc.)
+├── src/
+│   ├── assets/       # Images and icons
+│   ├── components/   # React components
+│   ├── constants/    # Data for experience, projects, etc.
+│   ├── App.jsx       # Main app component
+│   └── main.jsx      # Entry point
+├── package.json      # Project metadata and scripts
+├── tailwind.config.js
+├── postcss.config.js
+├── vite.config.js
+└── README.md         # Project documentation
+```
 
-- **Tailwind CSS**: Tailwind CSS is employed for styling, making it easier to create a responsive and sleek design. The utility-first approach of Tailwind CSS enhances the development process.
+## 🧑‍💻 Getting Started
+1. **Clone the repository:**
+   ```bash
+   git clone <https://github.com/yashumak/My-Project.git>
+   cd My-Portfolio
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+   The app will be available at `http://localhost:5173` (default Vite port).
 
-## Contributing
+## 🏗️ Build for Production
+```bash
+npm run build
+# or
+yarn build
+```
+The output will be in the `dist/` folder, ready to deploy.
 
-If you find any issues, have suggestions, or want to contribute to the project, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+## 🌐 Deployment
+- Deploy the contents of the `dist/` folder to your preferred static hosting (Vercel, Netlify, GitHub Pages, etc.).
+- Make sure to include the `public/` assets if your host requires it.
+
+## 📄 License
+This project is for personal portfolio use. Feel free to fork and adapt for your own portfolio!
