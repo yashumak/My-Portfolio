@@ -65,3 +65,6 @@ The output will be in the `dist/` folder, ready to deploy.
 
 ## 📄 License
 This project is for personal portfolio use. Feel free to fork and adapt for your own portfolio!
+
+## Contributing
+If you find any issues, have suggestions, or want to contribute to the project, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
