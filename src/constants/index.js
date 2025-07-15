@@ -182,11 +182,7 @@ const frontendTech = [
     name: "Chakra UI",
     icon: chakra
   },
-  {
-    id: "frontend-versal",
-    name: "Versal",
-    icon: versal
-  },
+
 ]
 
 const backendTech = [
@@ -320,6 +316,11 @@ const otherTech = [
     id: "other-farmer",
     name: "Farmer Motion",
     icon: farmer
+  },
+  {
+    id: "frontend-versal",
+    name: "Versal",
+    icon: versal
   },
 ]
 
