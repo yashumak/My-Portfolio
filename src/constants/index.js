@@ -303,10 +303,7 @@ const otherTech = [
     name: "UI Prototyping",
     icon: prototyping
   },
-  // {
-  //   name: "CMS (WordPress, Wix)",
-  //   icon: cms
-  // }
+  
   {
     id: "other-emailjs",
     name: "EmailJS",
