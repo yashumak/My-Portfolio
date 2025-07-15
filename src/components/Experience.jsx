@@ -42,7 +42,7 @@ const ExperienceCard = ({ experience }) => (
 )
 
 const Experience = () => {
-  const [tabIndex, setTabIndex] = useState(1);
+  const [tabIndex, setTabIndex] = useState(0);
 
   const handleTabChange = (event, newValue) => {
     setTabIndex(newValue);
@@ -61,15 +61,18 @@ const Experience = () => {
       aria-label="Experience tabs"
       className="mt-4"
       centered
-
       sx={{
         '& .MuiTabs-indicator': {
-          backgroundColor: "#00FFFF", // Change the color of the indicator line
+          backgroundColor: "#ffffff", // Pink indicator
         },
-        
+        '& .MuiTab-root': {
+          color: '#fff', // Default tab text color
+        },
+        '& .Mui-selected': {
+          color: '#ffffff !important', // Pink for selected tab
+        },
       }}
-
-      textColor="#D7F4FF"
+      textColor="inherit"
     >
       <Tab label="All" />
       <Tab label="Work" />

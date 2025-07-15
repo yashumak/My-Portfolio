@@ -19,7 +19,12 @@ const TrackPageView = () => {
 
 const App = () => {
   return (
-    <Router>
+    <Router
+      future={{
+        v7_startTransition: true,
+        v7_relativeSplatPath: true,
+      }}
+    >
       <TrackPageView />
       <div className='hidden sm:block'>
         <CustomCursor />

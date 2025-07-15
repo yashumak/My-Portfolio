@@ -134,18 +134,22 @@ const services = [
 
 const frontendTech = [
   {
+    id: "frontend-html",
     name: "HTML",
     icon: html,
   },
   {
+    id: "frontend-css",
     name: "CSS",
     icon: css,
   },
   {
+    id: "frontend-js",
     name: "JavaScript",
     icon: javascript,
   },
   {
+    id: "frontend-react",
     name: "React.js",
     icon: reactjs,
   },
@@ -154,26 +158,32 @@ const frontendTech = [
   //   icon: angular
   // },
   {
+    id: "frontend-tailwind",
     name: "Tailwind CSS",
     icon: tailwind
   },
   {
+    id: "frontend-bootstrap",
     name: "Bootstrap",
     icon: bootstrap
   },
   {
+    id: "frontend-figma",
     name: "Figma",
     icon: figma
   },
   {
+    id: "frontend-adobexd",
     name: "Adobe XD",
     icon: adobexd
   },
   {
+    id: "frontend-chakra",
     name: "Chakra UI",
     icon: chakra
   },
   {
+    id: "frontend-versal",
     name: "Versal",
     icon: versal
   },
@@ -181,15 +191,18 @@ const frontendTech = [
 
 const backendTech = [
   {
+    id: "backend-python",
     name: "Python",
     icon: python,
   },
   {
+    id: "backend-java",
     name: "Java",
     icon: java,
   },
 
   {
+    id: "backend-nodejs",
     name: "Node.js",
     icon: nodejs,
   },
@@ -206,6 +219,7 @@ const backendTech = [
   //   icon: mysql
   // },
   {
+    id: "backend-mongodb",
     name: "MongoDB",
     icon: mongodb
   },
@@ -222,10 +236,12 @@ const backendTech = [
   //   icon: heroku
   // }
   {
+    id: "backend-express",
     name: "ExpressJS",
     icon: express
   },
   {
+    id: "backend-firebase",
     name: "Firebase",
     icon: firebase
   },
@@ -233,10 +249,12 @@ const backendTech = [
 
 const otherTech = [
   {
+    id: "other-git",
     name: "Git",
     icon: git
   },
   {
+    id: "other-github",
     name: "GitHub",
     icon: github
   },
@@ -245,6 +263,7 @@ const otherTech = [
   //   icon: jira
   // },
   {
+    id: "other-postman",
     name: "Postman",
     icon: postman
   },
@@ -257,6 +276,7 @@ const otherTech = [
   //   icon: linux
   // },
   {
+    id: "other-windows",
     name: "Windows",
     icon: windows
   },
@@ -273,14 +293,17 @@ const otherTech = [
   //   icon: scrum
   // },
   {
+    id: "other-restapi",
     name: "Designing Restful APIs",
     icon: restapi
   },
   {
+    id: "other-microservices",
     name: "Microservices",
     icon: microservices
   },
   {
+    id: "other-prototyping",
     name: "UI Prototyping",
     icon: prototyping
   },
@@ -289,10 +312,12 @@ const otherTech = [
   //   icon: cms
   // }
   {
+    id: "other-emailjs",
     name: "EmailJS",
     icon: emailjs
   },
   {
+    id: "other-farmer",
     name: "Farmer Motion",
     icon: farmer
   },
