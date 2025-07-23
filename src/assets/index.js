@@ -80,6 +80,8 @@ import geeselovemerch from "./projects/geeselovemerch.png";
 import color from "./projects/color.png";
 import task from "./projects/task.png";
 import skill from "./projects/skill.png";
+import scan from "./projects/scan.png";
+import velocity from "./projects/velocity.png";
 
 // Profile Images
 import Payal from "./profile/Payal_Lenka.jpg";
@@ -150,6 +152,8 @@ export {
   color,
   task,
   skill,
+  scan,
+  velocity,
   Payal,
   Tejas,
   farmer,

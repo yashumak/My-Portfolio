@@ -60,6 +60,8 @@ import {
   geeselovemerch,
   color,
   skill,
+  scan,
+  velocity,
   task,
   chakra,
   versal,
@@ -303,7 +305,7 @@ const otherTech = [
     name: "UI Prototyping",
     icon: prototyping
   },
-  
+
   {
     id: "other-emailjs",
     name: "EmailJS",
@@ -417,26 +419,30 @@ const projects = [
     description:
       "SkillCertify is a modern and responsive web application built with React that offers a complete online learning experience. It allows users to browse courses, complete assignments, and earn verifiable certificates. With a sleek UI, smooth animations, and full responsiveness, it delivers a seamless experience across devices.",
     tags: [
-      {
-        name: "React",
-        color: "blue-text-gradient"
-      },
-      {
-        name: "Tailwind CSS",
-        color: "green-text-gradient"
-      },
-      {
-        name: "Framer Motion",
-        color: "pink-text-gradient"
-      },
-      {
-        name: "Radix UI",
-        color: "orange-text-gradient"
-      }
+      { name: "React", color: "blue-text-gradient" },
+      { name: "Tailwind CSS", color: "green-text-gradient" },
+      { name: "Framer Motion", color: "pink-text-gradient" },
+      { name: "Radix UI", color: "orange-text-gradient" }
     ],
     image: skill,
     source_code_link: "https://github.com/yashumak/Skillcertify-The-internship-platform",
-    demo_code_link: "https://skillcertify-the-internship-platfor.vercel.app"
+    demo_code_link: "https://skillcertify-the-internship-platform.vercel.app"
+  },
+  {
+    name: "VELOCITY Racing – F1 Streetwear Ecommerce Prototype",
+    description:
+      "A minimal, modern e-commerce experience for an F1-inspired streetwear brand. Built with a focus on clarity, speed, and user experience using Next.js, React, Tailwind CSS, and Radix UI. The prototype includes only the essential flows (Home, Category, Product, Cart, and Auth), showcasing smart time use and cohesive design.",
+    tags: [
+      { name: "Next.js", color: "blue-text-gradient" },
+      { name: "React", color: "green-text-gradient" },
+      { name: "Tailwind CSS", color: "pink-text-gradient" },
+      { name: "Radix UI", color: "orange-text-gradient" },
+      { name: "Lucide Icons", color: "blue-text-gradient" },
+      { name: "TypeScript", color: "green-text-gradient" }
+    ],
+    image: velocity, // define/import `velocity` image in your project
+    source_code_link: "https://github.com/yashumak/f1-streetwear-ecommerce-prototype.git",
+    demo_code_link: "https://v0-framer-streetwear-website.vercel.app/"
   },
   {
     name: "Color Tool – Design Utility",
@@ -450,8 +456,24 @@ const projects = [
     ],
     image: color,
     source_code_link: "https://github.com/yashumak/Color-tool",
-    demo_code_link: "https://color-tool-gamma.vercel.app/" // update if different
+    demo_code_link: "https://color-tool-gamma.vercel.app/"
   },
+
+  {
+    name: "ScanFeast – QR-Powered Restaurant Menu",
+    description:
+      "ScanFeast is a modern, QR-powered restaurant menu app built with Next.js, React, and Tailwind CSS. It features a digital menu with categories and food items, search and filtering, QR code generation for quick access, food detail pages with ratings, and a fully mobile-friendly design. The project uses the App Router, pnpm, and TypeScript for scalable architecture.",
+    tags: [
+      { name: "Next.js", color: "blue-text-gradient" },
+      { name: "TypeScript", color: "green-text-gradient" },
+      { name: "Tailwind CSS", color: "pink-text-gradient" },
+      { name: "QR Code", color: "orange-text-gradient" }
+    ],
+    image: scan, // make sure you define/import `scanfeast` image
+    source_code_link: "https://github.com/yashumak/scanfeast-scan-to-see-menu.git",
+    demo_code_link: "https://scanfeast-scan-to-see-menu-oiex.vercel.app/"
+  },
+
   {
     name: "Personal Task Tracker",
     description:
@@ -465,8 +487,9 @@ const projects = [
     image: task,
     source_code_link: "https://github.com/yashumak/Personal-Task-Tracker",
     demo_code_link: "https://personal-task-tracker-zeta.vercel.app/"
-  }
+  },
 ];
+
 
 
 export { services, experiences, testimonials, projects, backendTech, frontendTech, otherTech };
