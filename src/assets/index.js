@@ -62,7 +62,6 @@ import versal from "./tech/versal.png";
 // import freelance from "./company/freelance.png";
 import postman from "./company/postman.png";
 import cognifyz from "./company/cognifyz.png";
-import sheridancollege from "./company/sheridancollege.png";
 import bapu from "./company/bapu.webp";
 import qmark from "./company/qmark.png";
 // import northernwhisper from "./company/northernwhisper.png";
@@ -114,7 +113,6 @@ export {
   // freelance,
   postman,
   cognifyz,
-  sheridancollege,
   bapu,
   qmark,
   tastypython,

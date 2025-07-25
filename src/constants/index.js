@@ -19,7 +19,7 @@ import {
   // freelance,
   postman,
   cognifyz,
-  sheridancollege,
+  // sheridancollege,
   bapu,
   // qmark,
   tastypython,
