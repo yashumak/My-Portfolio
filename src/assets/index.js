@@ -69,9 +69,6 @@ import UoH from "./company/UoH.png";
 // import headstarter from "./company/headstarter.png";
 
 // Projects
-import tastypython from "./projects/tastypython.png";
-import signease from "./projects/signease.png";
-import squad from "./projects/squad.png";
 import whisperbackend from "./projects/whisperbackend.png";
 import color from "./projects/color.png";
 import task from "./projects/task.png";
@@ -110,9 +107,6 @@ export {
   cognifyz,
   bapu,
   qmark,
-  tastypython,
-  signease,
-  squad,
   whisperbackend,
   twitter,
   linkedin,
