@@ -74,7 +74,6 @@ import phishbuster from "./projects/phishbuster.png";
 import signease from "./projects/signease.png";
 import squad from "./projects/squad.png";
 import whisperbackend from "./projects/whisperbackend.png";
-import drivesync from "./projects/drivesync.png";
 import geeselovemerch from "./projects/geeselovemerch.png";
 import color from "./projects/color.png";
 import task from "./projects/task.png";
@@ -83,8 +82,6 @@ import scan from "./projects/scan.png";
 import velocity from "./projects/velocity.png";
 
 // Profile Images
-import Payal from "./profile/Payal_Lenka.jpg";
-import Tejas from "./profile/Tejas_Kannampuzha.jpg";
 
 export {
   logo,
@@ -120,7 +117,6 @@ export {
   signease,
   squad,
   whisperbackend,
-  drivesync,
   twitter,
   linkedin,
   instagram,
@@ -151,8 +147,6 @@ export {
   skill,
   scan,
   velocity,
-  Payal,
-  Tejas,
   farmer,
   firebase,
   versal,

@@ -50,11 +50,7 @@ import {
   microservices,
   prototyping,
   cms,
-  Payal,
-  Tejas,
-  // northernwhisper,
   UoH,
-  drivesync,
   whisperbackend,
   squad,
   geeselovemerch,
@@ -399,7 +395,6 @@ const testimonials = [
     name: "Tejas Kannampuzha",
     designation: "Founder",
     company: "TastyPython",
-    image: Tejas,
     url: "https://www.linkedin.com/in/tejas-kannampuzha-141214261/",
   },
   {
@@ -408,7 +403,6 @@ const testimonials = [
     name: "Payal Lenka",
     designation: "Student",
     company: "RNS Institute of Technology",
-    image: Payal,
     url: "https://www.linkedin.com/in/payal-lenka/",
   },
 ];
