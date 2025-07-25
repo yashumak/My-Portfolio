@@ -70,7 +70,6 @@ import UoH from "./company/UoH.png";
 
 // Projects
 import tastypython from "./projects/tastypython.png";
-import phishbuster from "./projects/phishbuster.png";
 import signease from "./projects/signease.png";
 import squad from "./projects/squad.png";
 import whisperbackend from "./projects/whisperbackend.png";
@@ -112,7 +111,6 @@ export {
   bapu,
   qmark,
   tastypython,
-  phishbuster,
   signease,
   squad,
   whisperbackend,
