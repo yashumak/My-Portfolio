@@ -74,7 +74,6 @@ import phishbuster from "./projects/phishbuster.png";
 import signease from "./projects/signease.png";
 import squad from "./projects/squad.png";
 import whisperbackend from "./projects/whisperbackend.png";
-import geeselovemerch from "./projects/geeselovemerch.png";
 import color from "./projects/color.png";
 import task from "./projects/task.png";
 import skill from "./projects/skill.png";
@@ -141,7 +140,6 @@ export {
   prototyping,
   cms,
   UoH,
-  geeselovemerch,
   color,
   task,
   skill,

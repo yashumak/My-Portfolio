@@ -53,7 +53,6 @@ import {
   UoH,
   whisperbackend,
   squad,
-  geeselovemerch,
   color,
   skill,
   scan,
