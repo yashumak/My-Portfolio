@@ -59,13 +59,13 @@ import firebase from "./tech/firebase.png";
 import versal from "./tech/versal.png";
 
 // Company
-import freelance from "./company/freelance.png";
+// import freelance from "./company/freelance.png";
 import postman from "./company/postman.png";
 import cognifyz from "./company/cognifyz.png";
 import sheridancollege from "./company/sheridancollege.png";
 import bapu from "./company/bapu.webp";
 import qmark from "./company/qmark.png";
-import northernwhisper from "./company/northernwhisper.png";
+// import northernwhisper from "./company/northernwhisper.png";
 import UoH from "./company/UoH.png";
 // import headstarter from "./company/headstarter.png";
 
@@ -111,7 +111,7 @@ export {
   threejs,
   java,
   python,
-  freelance,
+  // freelance,
   postman,
   cognifyz,
   sheridancollege,
@@ -146,7 +146,6 @@ export {
   microservices,
   prototyping,
   cms,
-  northernwhisper,
   UoH,
   geeselovemerch,
   color,
