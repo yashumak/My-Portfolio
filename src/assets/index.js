@@ -64,12 +64,8 @@ import postman from "./company/postman.png";
 import cognifyz from "./company/cognifyz.png";
 import bapu from "./company/bapu.webp";
 import qmark from "./company/qmark.png";
-// import northernwhisper from "./company/northernwhisper.png";
-import UoH from "./company/UoH.png";
-// import headstarter from "./company/headstarter.png";
 
 // Projects
-import whisperbackend from "./projects/whisperbackend.png";
 import color from "./projects/color.png";
 import task from "./projects/task.png";
 import skill from "./projects/skill.png";
@@ -107,7 +103,6 @@ export {
   cognifyz,
   bapu,
   qmark,
-  whisperbackend,
   twitter,
   linkedin,
   instagram,
@@ -131,7 +126,6 @@ export {
   microservices,
   prototyping,
   cms,
-  UoH,
   color,
   task,
   skill,

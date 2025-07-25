@@ -47,8 +47,6 @@ import {
   microservices,
   prototyping,
   cms,
-  UoH,
-  whisperbackend,
   color,
   skill,
   scan,
@@ -60,6 +58,7 @@ import {
   firebase,
   farmer,
   emailjs,
+  uiux,
 } from "../assets";
 
 export const navLinks = [
@@ -115,7 +114,7 @@ const services = [
   },
   {
     title: "Digital Creator",
-    icon: DigitalCreator,
+    icon: uiux,
   },
   {
     title: "Hackathon Participant",
