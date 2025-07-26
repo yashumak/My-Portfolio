@@ -32,7 +32,6 @@ import {
   mysql,
   bootstrap,
   adobexd,
-  jira,
   linux,
   windows,
   devops,

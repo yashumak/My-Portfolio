@@ -40,7 +40,6 @@ import azure from "./tech/azure.png";
 import mysql from "./tech/mysql.png";
 import bootstrap from "./tech/bootstrap.png";
 import adobexd from "./tech/adobexd.png";
-import jira from "./tech/jira.png";
 import linux from "./tech/linux.png";
 import windows from "./tech/windows.png";
 import devops from "./tech/devops.png";
@@ -107,7 +106,6 @@ export {
   mysql,
   bootstrap,
   adobexd,
-  jira,
   linux,
   windows,
   devops,
