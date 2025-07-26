@@ -37,13 +37,11 @@ import python from "./tech/python.png";
 import aws from "./tech/aws.png";
 import gcp from "./tech/gcp.png";
 import azure from "./tech/azure.png";
-import mysql from "./tech/mysql.png";
 import bootstrap from "./tech/bootstrap.png";
 import adobexd from "./tech/adobexd.png";
 import linux from "./tech/linux.png";
 import windows from "./tech/windows.png";
 import devops from "./tech/devops.png";
-import scrum from "./tech/scrum.png";
 import restapi from "./tech/restapi.png";
 import microservices from "./tech/microservices.png";
 import prototyping from "./tech/prototyping.png";
@@ -103,13 +101,11 @@ export {
   aws,
   gcp,
   azure,
-  mysql,
   bootstrap,
   adobexd,
   linux,
   windows,
   devops,
-  scrum,
   restapi,
   microservices,
   prototyping,
