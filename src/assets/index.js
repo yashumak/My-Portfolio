@@ -38,7 +38,6 @@ import aws from "./tech/aws.png";
 import gcp from "./tech/gcp.png";
 import azure from "./tech/azure.png";
 import heroku from "./tech/heroku.png";
-import clang from "./tech/clang.png";
 import csharp from "./tech/csharp.png";
 import mysql from "./tech/mysql.png";
 import bootstrap from "./tech/bootstrap.png";
@@ -108,7 +107,6 @@ export {
   gcp,
   azure,
   heroku,
-  clang,
   csharp,
   mysql,
   bootstrap,
