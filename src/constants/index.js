@@ -34,14 +34,12 @@ import {
   clang,
   csharp,
   mysql,
-  angular,
   bootstrap,
   adobexd,
   jira,
   linux,
   windows,
   devops,
-  agile,
   scrum,
   restapi,
   microservices,
@@ -271,10 +269,6 @@ const otherTech = [
   // {
   //   name: "DevOps",
   //   icon: devops
-  // },
-  // {
-  //   name: "Agile",
-  //   icon: agile
   // },
   // {
   //   name: "Scrum",

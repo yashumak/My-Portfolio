@@ -41,14 +41,12 @@ import heroku from "./tech/heroku.png";
 import clang from "./tech/clang.png";
 import csharp from "./tech/csharp.png";
 import mysql from "./tech/mysql.png";
-import angular from "./tech/angular.png";
 import bootstrap from "./tech/bootstrap.png";
 import adobexd from "./tech/adobexd.png";
 import jira from "./tech/jira.png";
 import linux from "./tech/linux.png";
 import windows from "./tech/windows.png";
 import devops from "./tech/devops.png";
-import agile from "./tech/agile.png";
 import scrum from "./tech/scrum.png";
 import restapi from "./tech/restapi.png";
 import microservices from "./tech/microservices.png";
@@ -113,14 +111,12 @@ export {
   clang,
   csharp,
   mysql,
-  angular,
   bootstrap,
   adobexd,
   jira,
   linux,
   windows,
   devops,
-  agile,
   scrum,
   restapi,
   microservices,
