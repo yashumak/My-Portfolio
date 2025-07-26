@@ -31,7 +31,6 @@ import {
   // gcp,
   azure,
   heroku,
-  csharp,
   mysql,
   bootstrap,
   adobexd,
