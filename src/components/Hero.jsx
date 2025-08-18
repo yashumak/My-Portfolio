@@ -14,9 +14,7 @@ const Hero = () => {
             <WorkshopCanvas />
         </div>
 
-        
-
-
+      
         <div className="relative flex flex-col justify-center items-center">
           {/* Bracket Bubble */}
           <div className="w-10 h-10 bg-cyan-300 rounded-lg flex justify-center items-center">
