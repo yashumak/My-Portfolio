@@ -14,10 +14,7 @@ const Hero = () => {
             <WorkshopCanvas />
         </div>
 
-        {/* <div className="relative flex flex-col justify-center items-center mt-5">
-          <div className="w-5 h-5 rounded-full bg-[#0feffd]"/>
-          <div className="w-1 sm:h-80 h-40 teal-gradient"/>
-        </div> */}
+        
 
 
         <div className="relative flex flex-col justify-center items-center">
