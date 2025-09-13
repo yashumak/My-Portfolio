@@ -446,7 +446,7 @@ const projects = [
     ],
     image: scan, // make sure you define/import `scanfeast` image
     source_code_link: "https://github.com/yashumak/scanfeast-scan-to-see-menu.git",
-    demo_code_link: "https://scanfeast-scan-to-see-menu-oiex.vercel.app/"
+    demo_code_link: "https://scanfeast-ten.vercel.app/"
   },
 
   {
