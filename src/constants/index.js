@@ -401,7 +401,7 @@ const projects = [
     ],
     image: skill,
     source_code_link: "https://github.com/yashumak/Skillcertify-The-internship-platform",
-    demo_code_link: "https://skillcertify-the-internship-platform.vercel.app"
+    demo_code_link: "https://skillcertify-client.vercel.app/"
   },
   {
     name: "VELOCITY Racing – F1 Streetwear Ecommerce Prototype",
