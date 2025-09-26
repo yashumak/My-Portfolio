@@ -341,6 +341,22 @@ const experiences = [
     type: 3,
   },
   {
+    title: "Technical Committee Incharge",
+    company_name: "B. D. Deshmukh College of Engineering",
+    icon: bapu,
+    iconBg: "#E6DEDD",
+    date: "2023 - 2024",
+    points: [
+      "Led the design and publication of the Departmental Annual Magazine 'The DigitalPane' in both online and offline formats, ensuring creative presentation and timely release.",
+      "Provided technical support during organization of various technical and cultural events, managing both online and offline requirements effectively.",
+      "Promoted technical events organized by the institute and other institutes through digital campaigns, increasing student participation and engagement.",
+      "Designed event-related materials including banners, posters, leaflets, photo collages, and presentations, ensuring high-quality visual communication.",
+      "Maintained detailed records of students' participation in technical events, including certificate verification and documentation for the academic year."
+    ],
+    type: 3,
+  },
+  
+  {
     title: "Bachelor of Technology in Computer Engineering",
     company_name: "B. D. Deshmukh College of Engineering",
     icon: bapu,
@@ -404,37 +420,6 @@ const projects = [
     demo_code_link: "https://skillcertify-client.vercel.app/"
   },
   {
-    name: "VELOCITY Racing – F1 Streetwear Ecommerce Prototype",
-    description:
-      "A minimal, modern e-commerce experience for an F1-inspired streetwear brand. Built with a focus on clarity, speed, and user experience using Next.js, React, Tailwind CSS, and Radix UI. The prototype includes only the essential flows (Home, Category, Product, Cart, and Auth), showcasing smart time use and cohesive design.",
-    tags: [
-      { name: "Next.js", color: "blue-text-gradient" },
-      { name: "React", color: "green-text-gradient" },
-      { name: "Tailwind CSS", color: "pink-text-gradient" },
-      { name: "Radix UI", color: "orange-text-gradient" },
-      { name: "Lucide Icons", color: "blue-text-gradient" },
-      { name: "TypeScript", color: "green-text-gradient" }
-    ],
-    image: velocity, // define/import `velocity` image in your project
-    source_code_link: "https://github.com/yashumak/f1-streetwear-ecommerce-prototype.git",
-    demo_code_link: "https://v0-framer-streetwear-website.vercel.app/"
-  },
-  {
-    name: "Color Tool – Design Utility",
-    description:
-      "Color Tool is a vibrant playground for designers and developers to explore, convert, and generate colors. It features HEX, RGB, HSL converters, palette generators, harmony tools, and prebuilt UI color schemes. Built with Next.js and Tailwind, it offers a seamless, responsive, and interactive experience for color-driven design decisions.",
-    tags: [
-      { name: "Next.js", color: "blue-text-gradient" },
-      { name: "TypeScript", color: "green-text-gradient" },
-      { name: "Tailwind CSS", color: "pink-text-gradient" },
-      { name: "Radix UI", color: "orange-text-gradient" }
-    ],
-    image: color,
-    source_code_link: "https://github.com/yashumak/Color-tool",
-    demo_code_link: "https://color-tool-gamma.vercel.app/"
-  },
-
-  {
     name: "ScanFeast – QR-Powered Restaurant Menu",
     description:
       "ScanFeast is a modern, QR-powered restaurant menu app built with Next.js, React, and Tailwind CSS. It features a digital menu with categories and food items, search and filtering, QR code generation for quick access, food detail pages with ratings, and a fully mobile-friendly design. The project uses the App Router, pnpm, and TypeScript for scalable architecture.",
@@ -450,19 +435,50 @@ const projects = [
   },
 
   {
-    name: "Personal Task Tracker",
+    name: "Color Tool – Design Utility",
     description:
-      "A lightweight and responsive task management app built with React. Allows users to add, edit, delete, and filter tasks, with all data stored in the browser using localStorage. Includes dark mode, simple login (username only), and search functionality. Built as part of an internship assignment at RYGNeco.",
+      "Color Tool is a vibrant playground for designers and developers to explore, convert, and generate colors. It features HEX, RGB, HSL converters, palette generators, harmony tools, and prebuilt UI color schemes. Built with Next.js and Tailwind, it offers a seamless, responsive, and interactive experience for color-driven design decisions.",
     tags: [
-      { name: "React", color: "blue-text-gradient" },
-      { name: "LocalStorage", color: "green-text-gradient" },
-      { name: "Responsive Design", color: "pink-text-gradient" },
-      { name: "Dark Mode", color: "orange-text-gradient" }
+      { name: "Next.js", color: "blue-text-gradient" },
+      { name: "TypeScript", color: "green-text-gradient" },
+      { name: "Tailwind CSS", color: "pink-text-gradient" },
+      { name: "Radix UI", color: "orange-text-gradient" }
     ],
-    image: task,
-    source_code_link: "https://github.com/yashumak/Personal-Task-Tracker",
-    demo_code_link: "https://personal-task-tracker-zeta.vercel.app/"
+    image: color,
+    source_code_link: "https://github.com/yashumak/Color-tool",
+    demo_code_link: "https://color-tool-gamma.vercel.app/"
   },
+  {
+    name: "VELOCITY Racing – F1 Streetwear Ecommerce Prototype",
+    description:
+      "A minimal, modern e-commerce experience for an F1-inspired streetwear brand. Built with a focus on clarity, speed, and user experience using Next.js, React, Tailwind CSS, and Radix UI. The prototype includes only the essential flows (Home, Category, Product, Cart, and Auth), showcasing smart time use and cohesive design.",
+    tags: [
+      { name: "Next.js", color: "blue-text-gradient" },
+      { name: "React", color: "green-text-gradient" },
+      { name: "Tailwind CSS", color: "pink-text-gradient" },
+      { name: "Radix UI", color: "orange-text-gradient" },
+      { name: "Lucide Icons", color: "blue-text-gradient" },
+      { name: "TypeScript", color: "green-text-gradient" }
+    ],
+    image: velocity, // define/import `velocity` image in your project
+    source_code_link: "https://github.com/yashumak/f1-streetwear-ecommerce-prototype.git",
+    demo_code_link: "https://v0-framer-streetwear-website.vercel.app/"
+  },
+
+  // {
+  //   name: "Personal Task Tracker",
+  //   description:
+  //     "A lightweight and responsive task management app built with React. Allows users to add, edit, delete, and filter tasks, with all data stored in the browser using localStorage. Includes dark mode, simple login (username only), and search functionality. Built as part of an internship assignment at RYGNeco.",
+  //   tags: [
+  //     { name: "React", color: "blue-text-gradient" },
+  //     { name: "LocalStorage", color: "green-text-gradient" },
+  //     { name: "Responsive Design", color: "pink-text-gradient" },
+  //     { name: "Dark Mode", color: "orange-text-gradient" }
+  //   ],
+  //   image: task,
+  //   source_code_link: "https://github.com/yashumak/Personal-Task-Tracker",
+  //   demo_code_link: "https://personal-task-tracker-zeta.vercel.app/"
+  // },
 ];
 
 
